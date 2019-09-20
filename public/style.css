@@ -22,6 +22,10 @@ form input[type=text] {
     margin-bottom: 10px;
 }
 
+form input[type=select] {
+    width: 316px;   
+}
+
 .col-left {
     width: 400px;
     margin-right: 25px;
